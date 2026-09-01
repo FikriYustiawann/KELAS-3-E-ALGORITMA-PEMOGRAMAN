@@ -1,7 +1,8 @@
 # 🧮 Logika Matematika - Sistem Remedial
 
 ## 📝 **Deskripsi Masalah**
-Di sebuah sekolah, terdapat aturan mengenai ujian remedial matematika. Siswa yang mendapatkan nilai kurang dari 75 harus mengikuti ujian remedial, sedangkan siswa yang mendapatkan nilai 75 atau lebih tidak perlu mengikuti remedial. Masalah ini dapat digunakan untuk menerapkan logika matematika dengan melihat hubungan antara nilai yang diperoleh siswa dan keputusan untuk mengikuti remedial. Program nantinya akan menerima nilai matematika siswa, kemudian menentukan apakah siswa perlu mengikuti remedial berdasarkan aturan yang telah ditentukan.
+Di sebuah sekolah, terdapat aturan mengenai ujian remedial matematika. Siswa yang mendapatkan nilai kurang dari 75 harus mengikuti ujian remedial, sedangkan siswa yang mendapatkan nilai 75 atau lebih tidak perlu mengikuti remedial.
+Masalah ini dapat digunakan untuk menerapkan logika matematika dalam menentukan suatu keputusan berdasarkan kondisi yang diberikan. Program akan menerima nilai matematika siswa sebagai input, kemudian mengevaluasi apakah nilai tersebut kurang dari 75 atau tidak. Berdasarkan hasil evaluasi tersebut, program akan menentukan apakah siswa perlu mengikuti ujian remedial atau tidak.
 
 ## 📥 **Input-Proses-Output**
 **Input:** Nilai ujian matematika yang diperoleh siswa.
