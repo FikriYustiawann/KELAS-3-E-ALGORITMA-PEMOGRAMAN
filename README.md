@@ -25,12 +25,12 @@ END IF
 ```mermaid
 %%{init: {
   "themeVariables": {
-    "fontSize": "10px"
+    "fontSize": "12px"
   },
   "flowchart": {
-    "nodeSpacing": 10,
-    "rankSpacing": 15,
-    "padding": 5
+    "nodeSpacing": 15,
+    "rankSpacing": 20,
+    "padding": 8
   }
 }}%%
 
