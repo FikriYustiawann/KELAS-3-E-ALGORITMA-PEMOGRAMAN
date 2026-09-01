@@ -20,10 +20,19 @@ END IF
 ## **Flowchart**
 ```mermaid
 flowchart TD
-    A([Mulai]) --> B[/Input nilai/]
+    A([START]) --> B[/INPUT nilai/]
     B --> C{Apakah nilai < 75?}
-    C -->|Ya| D[/Tampilkan "Siswa harus mengikuti ujian remedial"/]
-    C -->|Tidak| E[/Tampilkan "Siswa tidak perlu mengikuti ujian remedial"/]
-    D --> F([Selesai])
+
+    C -->|Ya| D[/OUTPUT<br/>"Siswa harus mengikuti<br/>ujian remedial"/]
+    C -->|Tidak| E[/OUTPUT<br/>"Siswa tidak perlu mengikuti<br/>ujian remedial"/]
+
+    D --> F([END])
     E --> F
+
+    style A fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
+    style B fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
+    style C fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#78350f
+    style D fill:#fee2e2,stroke:#dc2626,stroke-width:2px,color:#7f1d1d
+    style E fill:#e0e7ff,stroke:#4f46e5,stroke-width:2px,color:#312e81
+    style F fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
 ```
