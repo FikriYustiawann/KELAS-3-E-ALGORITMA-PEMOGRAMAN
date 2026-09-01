@@ -23,18 +23,18 @@ flowchart TD
     A([START]) --> B[/INPUT nilai/]
     B --> C{Apakah nilai < 75?}
 
-    C -->|Ya| D[/OUTPUT<br/>"Siswa harus mengikuti<br/>ujian remedial"/]
-    C -->|Tidak| E[/OUTPUT<br/>"Siswa tidak perlu mengikuti<br/>ujian remedial"/]
+    C -->|Ya| D[/OUTPUT "Siswa harus mengikuti ujian remedial"/]
+    C -->|Tidak| E[/OUTPUT "Siswa tidak perlu mengikuti ujian remedial"/]
 
     D --> F([END])
     E --> F
 
-    style A fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style B fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style C fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#78350f
-    style D fill:#fee2e2,stroke:#dc2626,stroke-width:2px,color:#7f1d1d
-    style E fill:#e0e7ff,stroke:#4f46e5,stroke-width:2px,color:#312e81
-    style F fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
+    style A fill:#dbeafe,stroke:#2563eb,stroke-width:2px
+    style B fill:#dcfce7,stroke:#16a34a,stroke-width:2px
+    style C fill:#fef3c7,stroke:#d97706,stroke-width:2px
+    style D fill:#fee2e2,stroke:#dc2626,stroke-width:2px
+    style E fill:#e0e7ff,stroke:#4f46e5,stroke-width:2px
+    style F fill:#dbeafe,stroke:#2563eb,stroke-width:2px
 ```
 ## **Test Case**
 | Test Case | Input Nilai | Kondisi | Hasil yang Diharapkan |
