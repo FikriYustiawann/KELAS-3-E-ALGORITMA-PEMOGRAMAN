@@ -1,2 +1,2 @@
-# TUGAS-ALGORITMA
-LOGIKA MATEMATIKA
+# Logika Matematika - Sistem Remedial
+## **Deskripsi Masalah**
