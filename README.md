@@ -51,3 +51,5 @@ Implementasi program dibuat menggunakan Python dan dijalankan melalui Visual Stu
 ### **Hasil Pengujian**
 
 Program telah diuji menggunakan dua nilai, yaitu 60 dan 80.
+<img width="833" height="636" alt="Tangkapan Layar 2026-09-01 pukul 18 35 13" src="https://github.com/user-attachments/assets/ceb74af8-44c3-485d-b6f2-dc9076ec0371" />
+
