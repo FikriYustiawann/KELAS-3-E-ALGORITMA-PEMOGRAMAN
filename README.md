@@ -9,8 +9,11 @@ Di sebuah sekolah, terdapat aturan mengenai ujian remedial matematika. Siswa yan
 **Output:** Keterangan apakah siswa perlu mengikuti remedial atau tidak.
 ## **Pseudocode**
 INPUT nilai
+
 IF nilai < 75 THEN
+    
     OUTPUT "Siswa harus mengikuti ujian remedial"
 ELSE
+    
     OUTPUT "Siswa tidak perlu mengikuti ujian remedial"
 END IF
