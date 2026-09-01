@@ -43,3 +43,9 @@ flowchart TD
 |---|---:|---|---|
 | 1 | 60 | Nilai < 75 | Siswa harus mengikuti ujian remedial |
 | 2 | 80 | Nilai ≥ 75 | Siswa tidak perlu mengikuti ujian remedial |
+
+## **Implementasi Python**
+
+Implementasi program dibuat menggunakan Python dan dijalankan melalui Visual Studio Code.
+
+Source code dapat dilihat pada **[main.py](main.py)**.
