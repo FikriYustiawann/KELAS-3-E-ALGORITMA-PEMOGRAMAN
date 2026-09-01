@@ -1,13 +1,16 @@
-# Sistem Remedial
-## **Deskripsi Masalah**
+# 🧮 Logika Matematika - Sistem Remedial
+
+## 📝 **Deskripsi Masalah**
 Di sebuah sekolah, terdapat aturan mengenai ujian remedial matematika. Siswa yang mendapatkan nilai kurang dari 75 harus mengikuti ujian remedial, sedangkan siswa yang mendapatkan nilai 75 atau lebih tidak perlu mengikuti remedial. Masalah ini dapat digunakan untuk menerapkan logika matematika dengan melihat hubungan antara nilai yang diperoleh siswa dan keputusan untuk mengikuti remedial. Program nantinya akan menerima nilai matematika siswa, kemudian menentukan apakah siswa perlu mengikuti remedial berdasarkan aturan yang telah ditentukan.
-## **Input-Proses-Output**
+
+## 📥 **Input-Proses-Output**
 **Input:** Nilai ujian matematika yang diperoleh siswa.
 
 **Proses:** Program membandingkan nilai siswa dengan batas nilai 75. Jika nilai kurang dari 75, siswa perlu mengikuti remedial. Jika nilai 75 atau lebih, siswa tidak perlu mengikuti remedial.
 
 **Output:** Apakah siswa perlu mengikuti remedial atau tidak.
-## **Pseudocode**
+
+## 💻 **Pseudocode**
 ```text
 INPUT nilai
 
@@ -17,7 +20,7 @@ ELSE
     OUTPUT "Siswa tidak perlu mengikuti ujian remedial"
 END IF
 ```
-## **Flowchart**
+## 📊 **Flowchart**
 
 ```mermaid
 flowchart TD
@@ -38,18 +41,19 @@ flowchart TD
     style F fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
 ```
 
-## **Test Case**
+## 🧪 **Test Case**
 | Test Case | Input Nilai | Kondisi | Hasil yang Diharapkan |
 |---|---:|---|---|
 | 1 | 60 | Nilai < 75 | Siswa harus mengikuti ujian remedial |
 | 2 | 80 | Nilai ≥ 75 | Siswa tidak perlu mengikuti ujian remedial |
 
-## **Implementasi Python**
+## 🐍 **Implementasi Python**
 
 Implementasi program dibuat menggunakan Python dan dijalankan melalui Visual Studio Code,
 Source code dapat dilihat pada **[main.py](main.py)**.
 
-## **Hasil Pengujian**
+## 📸 **Hasil Pengujian**
 Program telah berhasil diuji menggunakan dua nilai, yaitu 60 dan 80, dan menghasilkan output sesuai dengan kondisi yang telah ditentukan.
+
 <img width="720" height="450" alt="Tangkapan Layar 2026-09-01 pukul 19 09 46" src="https://github.com/user-attachments/assets/3cc6b4bd-73de-49ec-bbaa-a56f79a05edf" />
 
