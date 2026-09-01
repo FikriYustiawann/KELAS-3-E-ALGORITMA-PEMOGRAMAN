@@ -17,3 +17,13 @@ ELSE
     OUTPUT "Siswa tidak perlu mengikuti ujian remedial"
 END IF
 ```
+## **Flowchart**
+```mermaid
+flowchart TD
+    A([Mulai]) --> B[/Input nilai/]
+    B --> C{Apakah nilai < 75?}
+    C -->|Ya| D[/Tampilkan "Siswa harus mengikuti ujian remedial"/]
+    C -->|Tidak| E[/Tampilkan "Siswa tidak perlu mengikuti ujian remedial"/]
+    D --> F([Selesai])
+    E --> F
+```
