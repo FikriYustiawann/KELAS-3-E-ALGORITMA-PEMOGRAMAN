@@ -46,4 +46,8 @@ flowchart TD
 
 ## **Implementasi Python**
 
-Implementasi program dibuat menggunakan Python dan dijalankan melalui Visual Studio Code. Source code dapat dilihat pada **[main.py](main.py)**.
+Implementasi program dibuat menggunakan Python dan dijalankan melalui Visual Studio Code, Source code dapat dilihat pada **[main.py](main.py)**.
+
+### **Hasil Pengujian**
+
+Program telah diuji menggunakan dua nilai, yaitu 60 dan 80.
