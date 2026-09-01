@@ -53,7 +53,7 @@ Implementasi program dibuat menggunakan Python dan dijalankan melalui Visual Stu
 Source code dapat dilihat pada **[main.py](main.py)**.
 
 ## 📸 **Hasil Pengujian**
-Program telah berhasil diuji menggunakan dua nilai, yaitu 60 dan 80, dan menghasilkan output sesuai dengan kondisi yang telah ditentukan.
+Program telah berhasil diuji menggunakan dua nilai, yaitu 60 dan 80 sesuai dengan test case, dan menghasilkan output sesuai dengan kondisi yang telah ditentukan.
 
 <img width="720" height="450" alt="Tangkapan Layar 2026-09-01 pukul 19 09 46" src="https://github.com/user-attachments/assets/3cc6b4bd-73de-49ec-bbaa-a56f79a05edf" />
 
