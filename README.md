@@ -18,6 +18,7 @@ ELSE
 END IF
 ```
 ## **Flowchart**
+
 ```mermaid
 flowchart TD
     A([START]) --> B[/INPUT nilai/]
