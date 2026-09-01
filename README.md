@@ -36,3 +36,8 @@ flowchart TD
     style E fill:#e0e7ff,stroke:#4f46e5,stroke-width:2px,color:#312e81
     style F fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
 ```
+## **Test Case**
+| Test Case | Input Nilai | Kondisi | Hasil yang Diharapkan |
+|---|---:|---|---|
+| 1 | 60 | Nilai < 75 | Siswa harus mengikuti ujian remedial |
+| 2 | 80 | Nilai ≥ 75 | Siswa tidak perlu mengikuti ujian remedial |
